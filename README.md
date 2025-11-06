@@ -8,6 +8,7 @@
 | `postman_api_tests/` | Коллекция Postman для тестирования REST API (ReqRes) |
 | `web_testing/` | Чек-лист и примеры баг-репортов для веб-приложения |
 | `sql/` | Примеры SQL-запросов по учебной базе сотрудников |
+| `autotests/` | Набор простых API-тестов на Pytest + Requests |
 
 ---
 
